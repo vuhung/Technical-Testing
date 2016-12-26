@@ -1,0 +1,27 @@
+Hãy viết chương trình mô phỏng Digital Kitchen Timer
+
+Mục tiêu:Viết một chương trình (mobile app, webapp) mô phỏng (càng giống càng tố) Kitchen Timer. 
+Thời gian: 14 ngày (tối đa)
+
+Yêu cầu về kỹ thuật: Hãy sử dụng ngôn ngữ lập trình, nền tảng, công nghệ yêu thích của mình. Gợi ý: React Native, Android app.
+
+Yêu cầu về output:
+
+1. Mã nguồn 
+2. Test code 
+3. File thực thi
+4. Test cases 
+5. Kết quả test 
+6. Tài liệu thiết kế chức năng (theo một/hoặc nhiều phương pháp sau: use cases, user stories...) 
+
+Yêu cầu đầu vào: Xem movie sau https://www.youtube.com/watch?v=lTh6MvESEy4 
+
+Hướng dẫn (step by step):
+
+1. Xem movie trên
+2. Liệt kê chức năng 
+3. Thiết kế chương trình (UI, graphics, chức năng, phi chức năng, UX...)
+4. Thực thi (code, unit test) 
+5. Viết test cases, thực  thi test 
+6. Fix lỗi 
+7. Hoàn thiện thêm
